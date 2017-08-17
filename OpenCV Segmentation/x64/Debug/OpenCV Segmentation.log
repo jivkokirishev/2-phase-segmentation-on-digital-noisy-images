@@ -1,0 +1,45 @@
+﻿  main.cpp
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(87): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(93): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(99): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(100): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(101): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(106): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(107): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(108): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(113): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(114): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(115): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(120): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(121): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(127): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(134): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(135): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(149): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(175): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(176): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(313): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(314): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(317): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(318): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(322): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(323): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(348): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(350): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(381): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(405): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(420): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(477): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(479): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(481): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(483): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(591): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(637): warning C4018: '<': signed/unsigned mismatch
+c:\users\jivko\desktop\programi\opencv segmentation\opencv segmentation\main.cpp(639): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  OpenCV Segmentation.vcxproj -> C:\Users\Jivko\Desktop\Programi\OpenCV Segmentation\x64\Debug\OpenCV Segmentation.exe
+  OpenCV Segmentation.vcxproj -> C:\Users\Jivko\Desktop\Programi\OpenCV Segmentation\x64\Debug\OpenCV Segmentation.pdb (Partial PDB)
